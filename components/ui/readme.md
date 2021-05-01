@@ -1,0 +1,1 @@
+UI Components are visual components that have no application logic and are usually reusable across the application.
